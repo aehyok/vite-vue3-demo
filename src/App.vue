@@ -2,6 +2,12 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
+// import { useDate } from '@aehyok/utils'
+
+// const convert = useDate()
+
+// const date = convert.convertDateFormat('2015-01-01T10:08:00', 'yyyy年MM月dd日')
+// console.log(date, 'date')
 </script>
 
 <template>
